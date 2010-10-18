@@ -5,7 +5,7 @@
 	<key>KeepAlive</key>
 	<true/>
 	<key>Label</key>
-	<string>edu.purdue.ics.peelman.Terminal</string>
+	<string>us.peelman.Terminal</string>
 	<key>ProgramArguments</key>
 	<array>
 		<string>/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal</string>

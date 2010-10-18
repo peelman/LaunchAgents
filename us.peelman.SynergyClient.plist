@@ -7,7 +7,7 @@
 	<key>KeepAlive</key>
 	<false/>
 	<key>Label</key>
-	<string>edu.purdue.ics.peelman.user.SynergyClient</string>
+	<string>us.peelman.user.SynergyClient</string>
 	<key>ProgramArguments</key>
 	<array>
 		<string>/Applications/Synergy/SynergyClient/synergyc</string>
