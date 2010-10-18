@@ -5,7 +5,7 @@
 	<key>KeepAlive</key>
 	<true/>
 	<key>Label</key>
-	<string>edu.purdue.ics.peelman.quicksilver</string>
+	<string>us.peelman.quicksilver</string>
 	<key>ProgramArguments</key>
 	<array>
 		<string>/Applications/Quicksilver.app/Contents/MacOS/Quicksilver</string>
